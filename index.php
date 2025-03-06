@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,6 +46,7 @@
         <div class="paragraph">Exception 1 for example "🕑 2PM ish" means between "🕑2PM and 🕝2:30PM".</div>
         <div class="paragraph">Exception 2 for example "around 🕐 1PM" means between "🕐1PM and 🕐1:15PM".</div>
         <div class="time" id="time"></div>
+        <p><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <a href="https://github.com/MichelleFindlay/time.lp0.uk" target="_BLANK"><img src="https://img.shields.io/badge/View%20Source-100000?style=for-the-badge&logo=github&logoColor=white&text=View"/></a></p>
     </div>
 
     <script>
